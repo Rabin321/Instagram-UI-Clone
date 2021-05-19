@@ -1,6 +1,8 @@
 # instagram
 
 A new Flutter project.
+A instagram clone
+Contains UI of homepage only
 
 ## Getting Started
 
